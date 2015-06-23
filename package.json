@@ -1,0 +1,28 @@
+{
+  "name": "gsm-country",
+  "version": "1.0.0",
+  "description": "A simple NodeJS module to obtain an ISO country code from an MCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vchatterji/gsm-country.git"
+  },
+  "keywords": [
+    "GSM",
+    "MCC",
+    "Country",
+    "ISO",
+    "Mobile",
+    "Country",
+    "Code"
+  ],
+  "author": "Varun Chatterji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vchatterji/gsm-country/issues"
+  },
+  "homepage": "https://github.com/vchatterji/gsm-country#readme"
+}
